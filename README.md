@@ -2,8 +2,8 @@
 
 A physical indicator that tracks Manifold Market predictions in real-time.
 
-![IMG_3500](https://github.com/user-attachments/assets/70cc6794-e316-479c-8a40-bb3effc462c4)
-![electionneedle](https://github.com/user-attachments/assets/59814814-2350-480e-9bff-4d99daf540a0)
+<img src="https://github.com/user-attachments/assets/70cc6794-e316-479c-8a40-bb3effc462c4" width="300" alt="IMG_3500">
+<img src="https://github.com/user-attachments/assets/59814814-2350-480e-9bff-4d99daf540a0" width="300" alt="electionneedle">
 
 ## Components Required
 1. ESP32
