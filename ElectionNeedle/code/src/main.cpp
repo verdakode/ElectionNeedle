@@ -18,8 +18,8 @@ const int MAX_ANGLE = 0;
 const int DEFAULT_ANGLE = 90;
 
 // Network Constants
-const char* HOSTNAME = "needle1";
-const char* AP_SSID = "ManifoldNeedle1-Config";
+const char* HOSTNAME = "electionneedle";
+const char* AP_SSID = "ElectionNeedleConfig";
 const char* BASE_API_URL = "https://api.manifold.markets/v0/slug/";
 const unsigned long WIFI_TIMEOUT = 20000;  // 20 seconds timeout for WiFi connection
 const unsigned long UPDATE_INTERVAL = 5000; // 5 seconds between probability checks
