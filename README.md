@@ -1,2 +1,0 @@
-# PythonScripting
-For useful scripts
